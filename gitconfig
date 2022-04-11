@@ -52,3 +52,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = haydenjwalker1@gmail.com
+	name = hayden walker
